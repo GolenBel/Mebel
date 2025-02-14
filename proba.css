@@ -1,0 +1,23 @@
+.fons {
+    background-image: url("materials/mebel.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.foto1 img {
+    width: 100%;
+}
+
+.foto2 img {
+    width: 100%;
+    position: relative;
+    top: 100%;
+    margin-top: 51%;
+}
+
+.foto3 img {
+    width: 100%;
+    position: relative;
+    top: 100%;
+    margin-top: 10%;
+}
